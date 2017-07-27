@@ -1,0 +1,26 @@
+
+#desk {
+	width: 548px;
+	height: 548px;
+	padding: 0px;
+	margin: 0px;
+}
+.block {
+	background: #850000;
+	display: inline-block;
+}
+.chess {
+	background: #ffffff;
+	display: inline-block;
+}
+div {
+	width: 180px;
+	height: 180px;
+	margin: 0px;
+	padding: 0px;
+}
+img {
+	width: 180px;
+	height: 160px;
+	margin-bottom: 20px;
+}
